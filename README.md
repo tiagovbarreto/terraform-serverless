@@ -1,1 +1,1 @@
-# terraform-serveless-app
+# terraform-serverless-app
